@@ -20,17 +20,14 @@ I work with **GenAI, ML, and backend systems**, and actively explore problem-sol
 
 ---
 
-### 📚 Research & Publications
+###  Research & Publications
 
 - [🔬 *Enhancing Brain Tumor Identification with EfficientNetB4 in MRI Imaging*](https://ieeexplore.ieee.org/document/10748518)  
-  Published at **I4C-2024**, achieved **99.4% accuracy** on classification tasks.
-
 - [🧠 *Advancements in Brain Tumor Segmentation using Modified U-Net Architecture*](https://ieeexplore.ieee.org/document/10748434)  
-  Improved segmentation accuracy using a custom U-Net variant.
 
 ---
 
-### 🌱 Currently Exploring
+### Currently Exploring
 
 - MLOps & scalable model deployment  
 - System design for real-time AI solutions  
