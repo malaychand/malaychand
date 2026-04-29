@@ -1,24 +1,22 @@
 ## 👋 Hi, I'm Malay Chand
 
-🎯 Data Professional | GenAI Engineer | ML Developer  
-📍 Bangalore | 📧 malaychand111@gmail.com | [LinkedIn](https://linkedin.com/in/malaychand) | [Kaggle](https://www.kaggle.com/malaychand)
+🎯 ML Engineer | GenAI Developer • 📍 New Delhi  
+📧 malaychand111@gmail.com • 🔗 [LinkedIn](https://linkedin.com/in/malaychand) | [Kaggle](https://www.kaggle.com/malaychand)
 
 ---
 
 ### 🚀 About Me
-
-I build **LLM-powered applications**, scalable **ML pipelines**, and intelligent automation tools. Passionate about solving real-world problems using **GenAI**, **Python**, and **cloud platforms**.
+I love building AI systems — from LLM-powered applications to scalable ML pipelines — solving real-world problems.  
+I work with **GenAI, ML, and backend systems**, and actively explore problem-solving through mathematics, DSA, and Kaggle..
 
 ---
 
 ### 🛠️ Skills
-
-**Languages**: Python, SQL, Java, C  
-**Frameworks**: PyTorch, TensorFlow, FastAPI, Flask, Pandas  
-**ML/DL**: CNN, RNN, Transfer Learning, LLMs  
-**GenAI**: OpenAI, LangChain, LlamaIndex, FAISS  
-**DevOps**: Azure DevOps, CI/CD, Docker, Linux  
-**Visualization**: Power BI, Tableau, Plotly
+**Languages**: Python, SQL  
+**ML/AI**: Machine Learning, Deep Learning, LLMs  
+**GenAI**: OpenAI, LangChain, LlamaIndex  
+**Frameworks**: PyTorch, TensorFlow, FastAPI  
+**Tools**: MLflow, Docker, CI/CD  
 
 ---
 
@@ -32,29 +30,13 @@ I build **LLM-powered applications**, scalable **ML pipelines**, and intelligent
 
 ---
 
-### 💻 Notable Projects
-
-- **GenAI-Powered SQL Assistant** – Natural language to SQL interface for CSV-based analytics.  
-- **Sales Forecasting (Rohlik)** – 14-day demand prediction for European warehouses.  
-- **Churn Prediction (Neo Bank)** – Identified at-risk customers using behavioral data.  
-- **RAG-based QA System** – LlamaIndex + LangChain pipeline for document querying.  
-- **Custom Repo Cleanup Tool** – Python executable for auto-validating and sorting XML.
-
----
-
 ### 🌱 Currently Exploring
 
-- Advanced analytics engineering  
 - MLOps & scalable model deployment  
 - System design for real-time AI solutions  
 
 ---
 
-### ⚡ Fun Fact
-
-I enjoy turning complex models into usable products, with a strong bias for simplicity and automation.  
-
----
 
 > 💡 *"Code for impact. Research for change."*
 
